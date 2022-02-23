@@ -1,4 +1,4 @@
-# P5.js Flowfield Animation/Simulation
+# P5.js Flowfield Animation/Simulation New Tab Extension
 
 ![Flowfield animation demo](demo.gif)
 
@@ -7,5 +7,4 @@ The starting points are random and the direction of each pixel is shifted over t
 
 Made with [P5.js](https://p5js.org/).
 
-[Click here to show  in your browser.](https://codepen.io/achjaderleon/pen/rNWNjMg)
 
