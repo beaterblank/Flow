@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Pixel FlowField",
+    "version": "0.0",
+    "short_name": "Flow",
+    "icons": {
+        "128": "flow.png"
+    },
+    "description": "With this extension, new tabs display a Pixel FlowField instead of the usual new tab page with thumbnails.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
