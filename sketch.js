@@ -45,7 +45,7 @@ function draw() {
 }
 
 function FlowLine(x, y) {
-    this.alpha = 0.02;
+    this.alpha = 0.075;
     this.initialize = function() {
         this.point = createVector(x, y);
         this.updateNoise();
